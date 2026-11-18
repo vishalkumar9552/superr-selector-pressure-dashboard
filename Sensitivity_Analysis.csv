@@ -1,0 +1,10 @@
+pressure_threshold,min_balls_batter,min_legal_balls_bowler,min_matches,bat_top10_ids,bowl_top10_ids,bat_overlap_primary,bowl_overlap_primary,method
+55,40,24,4,8301|20702|8182|1107|3782|6467|2214|2876|143|2485,27964|6628|4237|29888|8634|34485|4926|6355|29066|6523,3,6,Full re-fit of primary component architecture; low-pressure reference remains PI < 40
+55,60,36,5,20702|8182|1107|3782|6467|2876|143|6396|4708|2680,27964|6628|29888|34485|4926|6355|29066|6523|67036|2490,5,6,Full re-fit of primary component architecture; low-pressure reference remains PI < 40
+55,80,48,7,20702|8182|1107|3782|2876|143|6396|4708|2680|4773,27964|6628|29888|34485|4926|6355|29066|6523|2490|781,6,7,Full re-fit of primary component architecture; low-pressure reference remains PI < 40
+60,40,24,4,6396|20702|4708|1107|2876|3056|37052|8182|4391|4773,6628|22471|67036|27964|8634|6523|4926|781|4237|1612,8,6,Full re-fit of primary component architecture; low-pressure reference remains PI < 40
+60,60,36,5,6396|20702|4708|1107|2876|37052|4391|4773|2633|2436,6628|27964|6523|4926|781|1612|3644|6355|29888|4373,10,10,Full re-fit of primary component architecture; low-pressure reference remains PI < 40
+60,80,48,7,6396|20702|4708|1107|2876|37052|4391|4773|2633|2436,6628|27964|6523|4926|781|1612|3644|6355|29888|4373,10,10,Full re-fit of primary component architecture; low-pressure reference remains PI < 40
+65,40,24,4,4708|6396|2876|1107|7260|20702|3605|796|4986|4773,6628|6523|8009|27964|36982|2847|4373|1566|29888|2933,6,5,Full re-fit of primary component architecture; low-pressure reference remains PI < 40
+65,60,36,5,4708|6396|2876|7260|20702|3605|796|4986|4773|152,6628|6523|27964|36982|2847|4373|1566|29888|2933|8221,5,5,Full re-fit of primary component architecture; low-pressure reference remains PI < 40
+65,80,48,7,4708|6396|2876|20702|796|4986|4773|152|1077|2436,6523|27964|2847|4373|1566|29888|2933|8221|3644|1612,6,6,Full re-fit of primary component architecture; low-pressure reference remains PI < 40
